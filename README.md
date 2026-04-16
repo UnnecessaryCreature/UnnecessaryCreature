@@ -1,5 +1,5 @@
 <p align="center">
-  <width=30px>Hi, I'm Unnecesary!<br>
-<br>
+  <width=30px>Hi, I'm Unnecesary! ( or Dani, how you like HAHS )<br>
+  <p
    you can call me Dani or as you like!
-   <p aligh="center"> i'm trying my best for make this page "decent" or whatever it is that i honestly try to do HAHAHAHS
+  <p aligh="center"> <img scr="https://pin.it/1KaesuMIF" />
