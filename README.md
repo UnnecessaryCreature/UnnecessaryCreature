@@ -1,3 +1,5 @@
 <p align="center">
-haii, i'm dani, idk why are you doing here, but is a pleasure ^^
-<p width="30px" align="center"> i was tried a lot make this page "cool"?, but It's more of a work in progress, I'll want improve it with the time HAHSHS
+HAII, IT'S A PLEASURE!
+</p>
+ <p align="center">
+  <img src="https://github.com/UnnecessaryCreature/UnnecessaryCreature/blob/main/images%20(64).jpeg" />
